@@ -111,7 +111,7 @@ license.txt
 exports
 *.cache
 dist
-build
+
 .strapi-updater.json
 
 
