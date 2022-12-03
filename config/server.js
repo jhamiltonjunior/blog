@@ -4,5 +4,5 @@ module.exports = ({ env }) => ({
   app: {
     keys: env.array('APP_KEYS'),
   },
-  // url: 'hamiltonjr.dev'
+// url: 'https://hamiltonjr.dev'
 });
